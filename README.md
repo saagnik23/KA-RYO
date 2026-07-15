@@ -25,9 +25,9 @@ A living, more detailed version (with decision nodes added as we build) is in [`
 
 | Who | Owns | Branch prefix |
 |---|---|---|
-| Karan | Backend, agent pipeline, model routing | `karan/` |
-| Havinash | Frontend, onboarding + action-card UI | `hav/` |
-| Saagnik | Demo data, pitch assets, docs, QA | `saag/` |
+| Karan |  | `karan/` |
+| Havinash |  | `hav/` |
+| Saagnik |  | `saag/` |
 
 Task ownership lives in [`docs/tasks.md`](docs/tasks.md). Claim before you build. Never two people (or two AI sessions) on the same task.
 
